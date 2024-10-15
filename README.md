@@ -12,7 +12,7 @@ Imolia Media is a digital agency specializing in creating professional websites,
 - New ways to enhance SaaS platforms and improve user interfaces.
 
 ## 💞️ I’m looking to collaborate on ...
-- Open-source projects, including the [Desktop-Customization-Tool]([https://github.com/imoliamedia/Desktop-Customization-Tool/tree/main]).
+- Open-source projects, including the [Desktop-Customization-Tool](https://github.com/imoliamedia/Desktop-Customization-Tool/tree/main).
 - Web and SaaS development that improves business productivity and user engagement.
 
 ## 📫 How to reach me ...
